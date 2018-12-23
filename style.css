@@ -34,7 +34,7 @@ body, p {
 }
 
 .project {
-  height: 160px; 
+  height: 160px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -78,7 +78,7 @@ body, p {
 }
 
 .insta {
-  background: #E4405F;
+  background: #181717;
 }
 
 .git {
@@ -86,7 +86,7 @@ body, p {
 }
 
 .codepen {
-  background: black;
+  background: #181717;
 }
 
 .linkedin {
